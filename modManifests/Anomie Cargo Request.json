@@ -1,0 +1,36 @@
+{
+  "id": "Anomie Cargo Request",
+  "displayName": "Anomie Cargo Request",
+  "description": "A forward mounted fixed Railgun firing 155mm slugs at 2380m/s every 2.5 seconds. Each slug fired by the railgun has the same kinetic energy as a school bus travelling at 500km/h.",
+  "tags": [
+    "mod",
+    "Weapon",
+    "blueprinter"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/nikkorap/NOBlueprinter-155mmRailgun/blob/main/README.md"
+    }
+  ],
+  "authors": [
+    "nikkorap"
+  ],
+  "githubOwner": "NotAnomie",
+  "githubRepoName": "NOBlueprinter-155mmRailgun",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "addOn",
+      "fileName": "Anomie.Cargo.Request_v1.0.0.zip",
+      "downloadUrl": "https://github.com/NotAnomie/NOBlueprinter-155mmRailgun/releases/download/v1.0.0/Anomie.Cargo.Request_v1.0.0.zip",
+      "gameVersion": "0.32",
+      "version": "1.0.0",
+      "category": "Release",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.17"
+      }
+    }
+  ]
+}
