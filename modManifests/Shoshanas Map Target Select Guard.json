@@ -1,5 +1,5 @@
 {
-  "id": "Shoshanas Map Target Select Guard",
+  "id": "Shoshanas.Map.Target.Select.Guard",
   "displayName": "Shoshanas Map Target Select Guard",
   "description": "Shoshanas Map Target Select Guard fixes an annoying bug that occurs in Primeva 2082 Mods which resulted in 2 targets selected at once while have the map open.",
   "tags": [
