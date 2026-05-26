@@ -20,6 +20,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "IbisPowerFix-1.2.0.zip",
+      "version": "1.2.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Rendresen/IbisPowerFix/releases/download/v1.2.0/IbisPowerFix-1.2.0.zip",
+      "hash": "sha256:cfc42a9df622142825b0658e5d65ca6f2a2a21404798c7df7f95c13a3a994bb9"
+    },
+    {
       "fileName": "IbisPowerFix-1.0.0.zip",
       "version": "1.0.0",
       "category": "release",
@@ -29,5 +38,5 @@
       "hash": "sha256:10641980a6526e6a49c83b12b8b6acfcb526135e27c7d32d7885b698fd87d86f"
     }
   ],
-  "downloadCount": 130
+  "downloadCount": 136
 }
