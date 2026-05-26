@@ -1,7 +1,7 @@
 {
   "id": "shoshanas.tvmissilehud",
   "displayName": "Shoshanas TVMissile Hud",
-  "description": "This is the Advanced Combat Overlay over map thing in my TV Missile hud.... JUST that with the change that in the MFD it shows the missile track lost and ETA.",
+  "description": "This is the TV Missile Hud where it shows the missiles POV and Missile trails.",
   "tags": [
     "QoL",
     "Utility"
