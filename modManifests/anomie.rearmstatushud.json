@@ -21,13 +21,12 @@
   "artifacts": [
     {
       "type": "plugin",
-      "fileName": "anomie.rearmstatushud_v1.0.7.zip",
-      "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-rearmstatushud/releases/download/v1.0.7/anomie.rearmstatushud_v1.0.7.zip",
-      "hash": "sha256:7b67f5d990051573ccfa8eecf5d35acdcabd0c7d5d1f0b26d1117121a2752621",
+      "fileName": "anomie.rearmstatushud_v1.0.8.zip",
+      "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-rearmstatushud/releases/download/v1.0.8/anomie.rearmstatushud_v1.0.8.zip",
+      "hash": "sha256:5761c11936c02985d3f3c145ec3cead8caa0a54cba3f2a38e97c5317e8ae5ff8",
       "gameVersion": "0.33",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "category": "Release"
     }
-  ],
-  "downloadCount": 29
+  ]
 }
